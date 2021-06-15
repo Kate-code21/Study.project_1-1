@@ -9,6 +9,7 @@ public class Solution {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int[] numbers = new int[10];
         int[] num1 = new int[5];
+
         int[] num2 = new int[5];
 
         for (int i = 0; i < numbers.length; i++) {
