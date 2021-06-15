@@ -21,5 +21,6 @@ public class Solution {
             num2[i - 5] = numbers[i];
             System.out.println(num2[i - 5]);
         }
+        System.out.println();
     }
 }
